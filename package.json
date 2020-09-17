@@ -24,7 +24,7 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
-    "start": "set PORT=4000 react-scripts start",
+    "start": "set PORT=3100 && craco start",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
